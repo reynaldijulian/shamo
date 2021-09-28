@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 double defaultMargin = 30.0;
 
-Color merah = Color(0xff6C5ECF);
+Color biru = Color(0xff6C5ECF);
 
 Color primaryColor = Color(0xff6C5ECF);
 Color secondaryColor = Color(0xff38ABBE);
