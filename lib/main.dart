@@ -22,6 +22,8 @@ void main() async {
   runApp(MyApp());
 }
 
+Color a = Color(0xff6C5ECF);
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
